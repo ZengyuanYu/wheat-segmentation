@@ -1,1 +1,1 @@
-# wheat-segmentation
+# wheat-segmentation for Mask R-CNN
